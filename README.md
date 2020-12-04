@@ -9,9 +9,12 @@ Technologies used: mongoose, node, js, commander.js , inquirer.js
 
 Commands Used:
 cli-project --version
+
 1.0.0
 
+
 cli-project --help
+
 Usage: cli-project [options] [command]
 
 Client Management System
@@ -30,5 +33,6 @@ Commands:
 
 
 Upcoming improvements:
+
 Adding validation to each entry using regex and display error messages using try catch error.
 Add and Remove more than one customer at a time
