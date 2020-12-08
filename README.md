@@ -1,6 +1,6 @@
 # CommandLineInterface
 
-The initial code is built using a youtube tutorial : https://www.youtube.com/watch?v=v2GKt39-LPA&t=376s&ab_channel=TraversyMedia
+
 
 This interface adds/updates/finds/remove and list all the customers in the collection.
 Technologies used: mongoose, node, js, commander.js , inquirer.js
